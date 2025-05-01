@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 Hi there, I'm Benjamin
 
-<!--
-**ben-doyle/ben-doyle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software developer with a passion for great products, quality code, and solving problems.
 
-Here are some ideas to get you started:
+## 👨‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🚀 Currently **Acting Group Engineering Manager**, supporting multiple cross-functional teams.
+- 🔧 In my spare time I build things I love, thank I think others will too.
+- 📫 How to reach me: [LinkedIn: Benjamin Doyle](https://www.linkedin.com/in/benjamin-doyle-aus/)
+
+## 🔭 Current Role
+
+**Group Engineering Manager**  
+
+I support several engineering teams and their Engineering Managers, ensuring each team has the clarity, autonomy, and support needed to succeed. I champion cross-team collaboration, elevate team culture, and help individuals grow into their potential.
