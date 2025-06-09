@@ -21,6 +21,12 @@ _Explore cities, find the best coffee spots, bars, restaurants, and outdoor acti
 - Share recommendations in your city with your team.
 - Coffee spots, restaurants and easy day trips.
 
+## 🌼 My largest project
+### [DZDaisy](https://dzdaisy.com) - Restoring a 1974 VW Kombi
+_My adventure restoring a '74 Volkswagen Kombi. From the ground up with a dream of a camper van, follow along as I bring this classic VW bus back to life._
+- A hands on project, a manual passion to have a contrast to the digital world.
+- It is the largest project I have undertaken and I am enjoying learning each step of the way and restoring it to its former glory.
+
 ## 🔭 Current Role
 
 **Group Engineering Manager**  
