@@ -16,13 +16,15 @@ I have a large amount of hobbies and interests, including but not limited to 3D 
 ## 📌 Current side projects
 ### [ShakkaShuffle](https://www.shakkashuffle.com) - Planning Poker, in Quokka style!
 _Estimate, collaborate, and hang loose like the happiest animal on Earth._
-- Planning poker app.
-- Easy to use, and fun.
+- Agile estimation tool designed to make sprint planning more engaging and efficient.
+- Quokka-themed design designed to make it the tool that teams actually want to use.
+- Supports real-time collaboration for distributed teams.
 
 ### [Guiddr](https://www.guiddr.com) - Discover and Share the Best Places in Your City with Your Team
 _Explore cities, find the best coffee spots, bars, restaurants, and outdoor activities._
-- Share recommendations in your city with your team.
-- Coffee spots, restaurants and easy day trips.
+- A fun side project to help my friends and I find the best places to eat, drink and explore in our city.
+- Designed for an organisation to use, sharing only between your email domain/employees.
+- Find and suggest coffee spots, restaurants and easy day trips.
 
 ## 🌼 My largest project
 ### [DZDaisy](https://dzdaisy.com) - Restoring a 1974 VW Kombi
