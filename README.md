@@ -1,6 +1,8 @@
 # 👋 Hi there, I'm Benjamin
 
-I'm a software developer with a passion for great products, quality code, and solving problems.
+As a Software developer, I love progressing the code, ideas and team culture. I like to keep my skills broad, and love working in multiple programming languages. I consider myself an all-round software engineer, as I like and tend to be able to adjust to the technical stack the project requires. As a leader I am a strong advocate for team culture and collaboration. I believe in a flat hierarchy and a high level of cross-team and discipline collaboration with each discipline having a voice.
+
+I have a large amount of hobbies and interests, including but not limited to 3D printing, music production, running, hiking, and skydiving. I am currently restoring a 1974 VW Kombi campervan, choosing a manual passion to have a contrast to the digital world. It is the largest project I have undertaken and I am enjoying learning each step of the way and restoring it to its former glory.
 
 ## 👨‍💻 About Me
 
