@@ -9,9 +9,6 @@ I have a large amount of hobbies and interests, including but not limited to 3D 
   - LinkedIn: [benjamin-doyle-aus](https://www.linkedin.com/in/benjamin-doyle-aus/)
 
 ## 👨‍💻 About Me
-
-- 🚀 Currently **Acting Group Engineering Manager**, supporting multiple cross-functional teams.
-  - I support several engineering teams and their Engineering Managers, ensuring each team has the clarity, autonomy, and support needed to succeed. I champion cross-team collaboration, elevate team culture, and help individuals grow into their potential.
 - 🔧 In my spare time I build things I love, that I think others will too.
  
 ## 📌 Current side projects
